@@ -1,3 +1,6 @@
+개발자가 되기 위해 차근차근 공부하고 있습니다!
+주로 코드는 Github에, 이론공부는 velog에 정리하고 있습니다.
+https://velog.io/@1afterwon
 
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=1AfterWon&show_icons=true&theme=highcontrast)](https://github.com/1AfterWon)
